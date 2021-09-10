@@ -1,0 +1,12 @@
+<api>
+  <package name="com.roydammarell.xamarininterface" jni-name="com/roydammarell/xamarininterface">
+    <interface abstract="true" deprecated="not deprecated" final="false" name="IExceptionService" static="false" visibility="public" jni-signature="Lcom/roydammarell/xamarininterface/IExceptionService;">
+      <method abstract="true" deprecated="not deprecated" final="false" name="throwNullReferenceException" jni-signature="()V" bridge="false" native="false" return="void" jni-return="V" static="false" synchronized="false" synthetic="false" visibility="public">
+      </method>
+    </interface>
+    <interface abstract="true" deprecated="not deprecated" final="false" name="IHelloService" static="false" visibility="public" jni-signature="Lcom/roydammarell/xamarininterface/IHelloService;">
+      <method abstract="true" deprecated="not deprecated" final="false" name="createHello" jni-signature="()Ljava/lang/String;" bridge="false" native="false" return="java.lang.String" jni-return="Ljava/lang/String;" return-not-null="true" static="false" synchronized="false" synthetic="false" visibility="public">
+      </method>
+    </interface>
+  </package>
+</api>

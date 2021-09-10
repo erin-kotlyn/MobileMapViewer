@@ -1,0 +1,56 @@
+<api
+  api-source="class-parse">
+  <package
+    name="com.roydammarell.xamarininterface"
+    jni-name="com/roydammarell/xamarininterface">
+    <interface
+      abstract="true"
+      deprecated="not deprecated"
+      final="false"
+      name="IExceptionService"
+      jni-signature="Lcom/roydammarell/xamarininterface/IExceptionService;"
+      source-file-name="IExceptionService.kt"
+      static="false"
+      visibility="public">
+      <method
+        abstract="true"
+        deprecated="not deprecated"
+        final="false"
+        name="throwNullReferenceException"
+        native="false"
+        return="void"
+        jni-return="V"
+        static="false"
+        synchronized="false"
+        visibility="public"
+        bridge="false"
+        synthetic="false"
+        jni-signature="()V" />
+    </interface>
+    <interface
+      abstract="true"
+      deprecated="not deprecated"
+      final="false"
+      name="IHelloService"
+      jni-signature="Lcom/roydammarell/xamarininterface/IHelloService;"
+      source-file-name="IHelloService.kt"
+      static="false"
+      visibility="public">
+      <method
+        abstract="true"
+        deprecated="not deprecated"
+        final="false"
+        name="createHello"
+        native="false"
+        return="java.lang.String"
+        jni-return="Ljava/lang/String;"
+        static="false"
+        synchronized="false"
+        visibility="public"
+        bridge="false"
+        synthetic="false"
+        jni-signature="()Ljava/lang/String;"
+        return-not-null="true" />
+    </interface>
+  </package>
+</api>

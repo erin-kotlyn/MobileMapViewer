@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/wondermom/Documents/ProofOfConceptMobile/XamarinDependency/XamarinDependency.Application/XamarinDependency.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/wondermom/Documents/ProofOfConceptMobile/XamarinDependency/XamarinDependency.Application/XamarinDependency.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/wondermom/Documents/ProofOfConceptMobile/XamarinDependency/XamarinDependency.Application/XamarinDependency.Application.csproj",
+        "projectName": "XamarinDependency.Application",
+        "projectPath": "/Users/wondermom/Documents/ProofOfConceptMobile/XamarinDependency/XamarinDependency.Application/XamarinDependency.Application.csproj",
+        "packagesPath": "/Users/wondermom/.nuget/packages/",
+        "outputPath": "/Users/wondermom/Documents/ProofOfConceptMobile/XamarinDependency/XamarinDependency.Application/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/wondermom/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid10.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid10.0": {
+            "projectReferences": {
+              "/Users/wondermom/Documents/ProofOfConceptMobile/XamarinDependency/XamarinDependency.Library/XamarinDependency.Library.csproj": {
+                "projectPath": "/Users/wondermom/Documents/ProofOfConceptMobile/XamarinDependency/XamarinDependency.Library/XamarinDependency.Library.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid10.0": {
+          "dependencies": {
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.1.0.1, )"
+            },
+            "Xamarin.AndroidX.Migration": {
+              "target": "Package",
+              "version": "[1.0.6.1, )"
+            },
+            "Xamarin.AndroidX.RecyclerView": {
+              "target": "Package",
+              "version": "[1.1.0.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    },
+    "/Users/wondermom/Documents/ProofOfConceptMobile/XamarinDependency/XamarinDependency.Library/XamarinDependency.Library.csproj": {
+      "restore": {
+        "projectUniqueName": "/Users/wondermom/Documents/ProofOfConceptMobile/XamarinDependency/XamarinDependency.Library/XamarinDependency.Library.csproj",
+        "projectName": "XamarinDependency.Library",
+        "projectPath": "/Users/wondermom/Documents/ProofOfConceptMobile/XamarinDependency/XamarinDependency.Library/XamarinDependency.Library.csproj"
+      },
+      "frameworks": {
+        "monoandroid80": {}
+      }
+    }
+  }
+}

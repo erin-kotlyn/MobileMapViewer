@@ -1,0 +1,4 @@
+com/roydammarell/xamarininterface/IExceptionService = Com.Roydammarell.Xamarininterface.IExceptionService
+  throwNullReferenceException()V = ThrowNullReferenceException()
+com/roydammarell/xamarininterface/IHelloService = Com.Roydammarell.Xamarininterface.IHelloService
+  createHello()Ljava/lang/String; = CreateHello()

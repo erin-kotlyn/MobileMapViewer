@@ -1,0 +1,12 @@
+color;obj/Debug/res/values/colors.xml
+color;obj/Debug/res/values/ic_launcher_background.xml
+item;obj/Debug/res/values/styles.xml
+RelativeLayout;obj/Debug/res/layout/activity_main.xml
+resources;/Users/wondermom/Documents/ProofOfConceptMobile/XamarinDependency/XamarinDependency.Application/obj/Debug/lp/37/jl/res/values/strings.xml
+resources;obj/Debug/res/values/colors.xml
+resources;obj/Debug/res/values/ic_launcher_background.xml
+resources;obj/Debug/res/values/strings.xml
+resources;obj/Debug/res/values/styles.xml
+string;/Users/wondermom/Documents/ProofOfConceptMobile/XamarinDependency/XamarinDependency.Application/obj/Debug/lp/37/jl/res/values/strings.xml
+string;obj/Debug/res/values/strings.xml
+style;obj/Debug/res/values/styles.xml
